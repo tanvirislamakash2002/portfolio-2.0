@@ -17,6 +17,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Tanvir Islam Akash",
   description: "This is a portfolio website of Tanvir Islam Akash",
+  icons: {
+    icon: 'https://i.ibb.co.com/twYfrrgR/logo.png',     
+    apple: 'https://i.ibb.co.com/twYfrrgR/logo.png',
+  },
 };
 
 export default function RootLayout({
