@@ -134,7 +134,7 @@ const ProjectsSection = () => {
                 {/* Action Buttons */}
                 <div className="flex flex-wrap gap-4 pt-4">
                   <Button asChild variant="default" className="group">
-                    <Link href={`/project-details/${project.detailsLink}`} target="_blank">
+                    <Link href={`/projects/${project.detailsLink}`} target="_blank">
                       <Info className="mr-2 h-4 w-4" />
                       View Details
                       <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />

@@ -115,15 +115,15 @@ const Navbar = () => {
               </Button>
             ))}
           </nav>
-          {/* Theme Toggle */}
-          <ThemeToggle />
           {/* Contact Button - Desktop */}
           <div className="hidden md:block">
+            {/* Theme Toggle */}
+            <ThemeToggle />
             <Button
               onClick={handleResumeDownload}
               variant="default"
               size="sm"
-              className="font-mono"
+              className="font-mono ml-2"
             >
               <Download className="mr-2 h-4 w-4" />
               Download Resume
@@ -132,6 +132,8 @@ const Navbar = () => {
 
           {/* Mobile menu button */}
           <div className="md:hidden flex items-center">
+            {/* Theme Toggle */}
+            <ThemeToggle />
             <Button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               variant="outline"
