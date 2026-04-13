@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "title": "FoodFairy, It is a charity website",
+    "description": "It is a charity website where restaurant can post their remaining food and charity organization can get those food and use in charity.",
+    "image": "https://i.ibb.co.com/zVLbsPwR/project-12.png",
+    "features": [
+      "Different dashboards for users, charities, restaurants, and admins with role-specific features.",
+      "Restaurants can add, update, and manage food donations. Charities can view and request available donations.",
+      "Users can search donations by location and sort them by quantity or pickup time."
+    ],
+    "challenges": [
+      "🔒 Role-Based Security & Data Protection – Ensuring secure access for different user roles was a complex task. By implementing JWT (JSON Web Tokens), I created a secure environment where user data remains protected while maintaining seamless functionality.",
+      "🔄 Dynamic User Dashboard – The application allows users to modify almost all their information, making the dashboard fully dynamic. Handling real-time updates while maintaining data integrity and performance required careful planning and efficient backend logic.",
+      "💳 Seamless Payment Integration – Implementing a reliable and secure payment system was a crucial aspect of the project. After thorough research and testing, I integrated a smooth payment gateway that ensures secure and hassle-free transactions for users.",
+      "🔍 Advanced Sorting & Filtering – To enhance user experience, I implemented multiple sorting methods, allowing users to easily find their desired posts. Optimizing these features for speed and accuracy was a challenging yet fulfilling task."
+    ],
+    "technologies": [
+      "React",
+      "Firebase",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "daisyUi",
+      "JWT"
+    ],
+    "liveLink": "https://ph-b11-a12.web.app/",
+    "githubLink": "https://github.com/tanvirislamakash2002/project-12-client-side",
+    "detailsLink": "project-12"
+  },
+  {
+    "id": 2,
+    "title": "Readora, A Knowledge sharing Platform",
+    "description": "It is a knowledge-sharing website where people can exchange their knowledge. Here, users can publish their insights as articles, read each other's posts, and gain new knowledge.",
+    "image": "https://i.ibb.co.com/rKvXFC9b/project-11.png",
+    "features": [
+      "User authentication",
+      "Post and manage articles",
+      "Read others articles and give like and comment"
+    ],
+    "challenges": [
+      "🔒 Enhanced Privacy & Security – Since the platform handles user-generated content, data security was a top priority. By integrating JWT (JSON Web Tokens), I ensured secure authentication and protected sensitive user information from unauthorized access.",
+      "💬 Dynamic User Interactions – Allowing users to engage with posts (likes, comments) while keeping the UI intuitive and responsive demanded efficient backend logic and frontend synchronization. The system now smoothly updates interactions without page reloads.",
+      "📝 Real-Time Content Moderation – To maintain a high-quality knowledge base, I implemented checks to prevent spam and ensure meaningful contributions, enhancing the platform’s reliability."
+    ],
+    "technologies": [
+      "React",
+      "Firebase",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "daisyUi"
+    ],
+    "liveLink": "https://ph-b11-a11.web.app/",
+    "githubLink": "https://github.com/tanvirislamakash2002/project-11-client-side",
+    "detailsLink": "project-11"
+  },
+  {
+    "id": 3,
+    "title": "RoomEase, A Roommate Finding platform",
+    "description": "This is a web platform designed to simplify the process of finding compatible roommates. Whether you have an available space or are searching for one, our platform connects individuals looking for shared living arrangements.",
+    "image": "https://i.ibb.co.com/p6mny9zZ/project-10.png",
+    "features": [
+      "Finding Roommate",
+      "Post for finding roommate",
+      "Admin dashboard"
+    ],
+    "technologies": [
+      "React",
+      "Firebase",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
+    "liveLink": "https://ph-b11-a10.web.app/",
+    "githubLink": "https://github.com/tanvirislamakash2002/project-10-client-side",
+    "detailsLink": "project-10"
+  },
+  {
+    "id": 4,
+    "title": "Job Track, A Job Finding platform",
+    "description": "There is a list of company they are providing jobs. people can visit the company profile and apply for jobs.",
+    "image": "https://i.ibb.co.com/GQ1DP3qZ/project-9.png",
+    "features": [
+      "A company can give job circular",
+      "People can apply for jobs"
+    ],
+    "technologies": [
+      "React",
+      "Firebase",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
+    "liveLink": "https://ph-a-9-c6b1f.web.app",
+    "githubLink": "https://github.com/tanvirislamakash2002/project-9",
+    "detailsLink": "project-9"
+  }
+]
