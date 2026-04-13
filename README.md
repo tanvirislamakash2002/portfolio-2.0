@@ -1,7 +1,7 @@
 
 # Tanvir Islam Akash - Portfolio Website
 
-A modern, responsive portfolio website built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui. Showcasing my skills, projects, and experience as a MERN Stack Developer.
+A modern, responsive portfolio website built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui. Showcasing my skills, projects, and experience as a Full Stack Developer.
 
 ## 🚀 Live Demo
 
@@ -189,64 +189,8 @@ The portfolio is fully responsive and optimized for:
 - [Tailwind CSS](https://tailwindcss.com)
 - [Framer Motion](https://www.framer.com/motion/)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 ⭐ Star this repository if you find it helpful!
 
 
-## For a Simpler README (Minimal Version):
-
-
-# Tanvir Islam Akash - Portfolio
-
-My personal portfolio website showcasing my work as a MERN Stack Developer.
-
-## Tech Stack
-
-- Next.js 16
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
-
-## Getting Started
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000)
-
-## Deployment
-
-Deployed on Vercel:
-
-```bash
-npm install -g vercel
-vercel
-```
-
-## Contact
-
-- Email: tanvirislamakash2002@gmail.com
-- LinkedIn: [Tanvir Islam Akash](https://www.linkedin.com/in/tanvir-islam-akash2002)
-- GitHub: [tanvirislamakash2002](https://github.com/tanvirislamakash2002)
-
-## Live Demo
-
-[View Portfolio](https://tanvir-islam-akash.vercel.app/)
-
-
-## Tips for Your README:
-
-1. **Add screenshots** - Include images of your portfolio
-2. **Update the live URL** - Replace with your actual Vercel URL after deployment
-3. **Add badges** - Show build status, version, etc.
-4. **Keep it updated** - Refresh content as your portfolio evolves
-
-Would you like me to help you customize either version further?
