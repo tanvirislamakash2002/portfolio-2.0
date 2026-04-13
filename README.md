@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` template for your Next.js portfolio website:
 
-```markdown
 # Tanvir Islam Akash - Portfolio Website
 
 A modern, responsive portfolio website built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui. Showcasing my skills, projects, and experience as a MERN Stack Developer.
@@ -198,11 +196,11 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ Star this repository if you find it helpful!
-```
+
 
 ## For a Simpler README (Minimal Version):
 
-```markdown
+
 # Tanvir Islam Akash - Portfolio
 
 My personal portfolio website showcasing my work as a MERN Stack Developer.
@@ -241,8 +239,8 @@ vercel
 
 ## Live Demo
 
-[View Portfolio](your-vercel-url.vercel.app)
-```
+[View Portfolio](https://tanvir-islam-akash.vercel.app/)
+
 
 ## Tips for Your README:
 
